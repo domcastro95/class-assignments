@@ -1,0 +1,4 @@
+eeb177-student@eeb177-VirtualBox:~/Desktop/eeb-177/CSB/unix/sandbox$ find ../../../../../Desktop/ -iname "*classwork*" >> ~/Desktop/eeb-177/class-assignments/classwork-Tues-1-24.txt
+
+>> 'find' gets to look for the needed location (in this case Desktop). -i ignores caps. -name finds the name "*classwork*" within the file in Desktop. once it is found. I >> to a location which is the 'classwork-Tues-1-24.txt'.
+

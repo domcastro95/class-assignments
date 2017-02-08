@@ -1,0 +1,45 @@
+Hello there. 1/21/17
+
+I am trying to troubleshoot this file. 
+
+wc -l = # of lines
+wc -m = # of chara
+wc -w = # of words
+wc -c = # of bytes 
+
+How many lines are in file Marra2014_about.fasta?
+9515 Marra2014_data.fasta
+
+How many words in are the file Marra2014_about.txt? 
+87 Marra2014_about.txt
+
+What is the deliminter in the file? 
+<TaxID;Order;Family;Genus;Scientific_name;AdultBodyMass_g;Sources_AdultBodyMass;Max_longevity_d;Sources_Max_longevity;Rspan_d;AFR_d;Data_AFR;Calculated_GL_d;GenerationLength_d;Sources_GL
+>
+--It's a long first line
+
+Challenge 2
+Show the Order of the first 5 species in the data set.
+command used 
+> eeb177-student@eeb177-VirtualBox:~/Desktop/eeb-177/CSB/unix/data$ less Pacifici2013_data.csv | cut -d ';' -f 2 | head -n 6 | tail -n +2
+>> look in document .csv | cut the deliniator ';'from the second catagory/column | head the first 6 | tail -n +2 means on the contents of a file or stream from the second line
+Rodentia
+Rodentia
+Rodentia
+Macroscelidea
+Rodentia
+
+Challenge 3
+Family
+Cricetidae
+Cricetidae
+Cricetidae
+Macroscelididae
+Cricetidae
+
+
+
+
+
+
+

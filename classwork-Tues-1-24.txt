@@ -1,0 +1,32 @@
+../../../../../Desktop/eeb-177/class-assignments/classwork-sending-to-homeworkrepo-file.png
+../../../../../Desktop/eeb-177/class-assignments/classwork-Tues-1-24.txt
+../../../../../Desktop/eeb-177/class-assignments/classwork-1-19-2017.txt
+../../../../../Desktop/eeb-177/class-assignments/classwork-Thursday-1-21.txt
+../../../../../Desktop/eeb-177/class-assignments/classwork-Tues-1-17.txt
+../../../../../Desktop/eeb-177/class-assignments/classwork-Tuesday-1-24.txt
+../../../../../Desktop/eeb-177/class-assignments/classwork-Thurs-1-19.txt
+ 1536  git commit -m "find >> -iname -name"
+ 1537  git push
+ 1538  ls
+ 1539  gedit classwork-Tues-1-24.txt 
+ 1540  ls
+ 1541  gedit codes-explained.txt
+ 1542  ls
+ 1543  gedit codes-explained.txt 
+ 1544  git add codes-explained.txt 
+ 1545  git commit -m "successful codes explained"
+ 1546  git push
+ 1547  cd ../CSB/unix/sandbox/
+ 1548  find ../data -maxdepth 1 -name "*.txt"
+ 1549  ls -l
+ 1550  touch permisions.txt
+ 1551  ls
+ 1552  mv permisions.txt permissions.txt
+ 1553  ls
+ 1554  ls -l
+ 1555  chmod u=rmx permissions.txt 
+ 1556  chmod g+w,u+x permissions.txt 
+ 1557  ls -l
+ 1558  history
+ 1559  history 10
+ 1560  history 25 >> ~/Desktop/eeb-177/class-assignments/classwork-Tues-1-24.txt

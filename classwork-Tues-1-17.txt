@@ -1,0 +1,21 @@
+today is tuesday 
+.
+..
+badly named file.txt
+classwork-Tues-1-17.txt
+.config
+.git
+junk.txt
+readme.txt
+temp.txt
+thurs-1-12-2017
+.
+..
+badly named file.txt
+classwork-Tues-1-17.txt
+.config
+.git
+junk.txt
+readme.txt
+temp.txt
+thurs-1-12-2017

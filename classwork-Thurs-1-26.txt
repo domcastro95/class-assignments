@@ -1,0 +1,168 @@
+# comments: when I tried to do cd script. Then 'mv ~/Desktop/eeb-177/class-assignments'. there was no location. for my mv. 
+
+1523  cd
+ 1524  pwd
+ 1525  mkdir scrips
+ 1526  ls
+ 1527  mv scrips scripts
+ 1528  ls
+ 1529  cd scripts/
+ 1530  ls
+ 1531  mv ~/Desktop/eeb-177/class-assignments/
+ 1532  ls
+ 1533  mv ~/Desktop/eeb-177/class-assignments/
+ 1534  ls
+ 1535  mv. ~/Desktop/eeb-177/class-assignments/
+ 1536  mv --help
+ 1537  history 25
+ 1538  cd
+ 1539  ls
+ 1540  rm scripts/
+ 1541  rmdir scripts
+ 1542  ls
+ 1543  cd
+ 1544  pwd
+ 1545  mkdir scripts
+ 1546  ls
+ 1547  rmdir scripts/
+ 1548  cd Desktop/eeb-177/class-assignments/
+ 1549  ls
+ 1550  gedit permissions.txt 
+ 1551  ls
+ 1552  gedit dir.sh 
+ 1553  history 25
+ 1554  ls
+ 1555  cd
+ 1556  ls
+ 1557  mkdir scripts
+ 1558  ls
+ 1559  history 40
+ 1560  ls
+ 1561  cd scripts
+ 1562  mv ~/Desktop/eeb-177/class-assignments/
+ 1563  mv ~/Desktop/eeb-177/class-assignments/ scripts
+ 1564  ls
+ 1565  cd
+ 1566  cd Desktop/eeb-177/
+ 1567  ls
+ 1568  cd../..
+ 1569  cd
+ 1570  cd scripts
+ 1571  ls
+ 1572  mv scripts ~/Desktop/eeb-177/class-assignments
+ 1573  ls
+ 1574  cd
+ 1575  cd Desktop/eeb-177/class-assignments/
+ 1576  ls
+ 1577  cd
+ 1578  cd Desktop/eeb-177/class-assignments/
+ 1579  cd ..
+ 1580  ls
+ 1581  cd
+ 1582  cd script
+ 1583  ls
+ 1584  cd scripts
+ 1585  mv ~/Desktop/eeb-177/class-assignments/ .
+ 1586  ls
+ 1587  gedit dir.sh
+ 1588  ls
+ 1589  history 25
+ 1590  mv class-assignments ~/Desktop/eeb-177/
+ 1591  ls
+ 1592  cd
+ 1593  cd Desktop/eeb-177/class-assignments/
+ 1594  ls
+ 1595  cd ..
+ 1596  cd class-assignments/
+ 1597  ls
+ 1598  gedit dir.sh
+ 1599  ls
+ 1600  cd 
+ 1601  cd scripts
+ 1602  ls
+ 1603  cd ..
+ 1604  ls
+ 1605  cd scripts/
+ 1606  mv ~/Desktop/eeb-177/class-assignments/
+ 1607  history 25
+ 1608  cd
+ 1609  ls
+ 1610  cd ~/Desktop/eeb-177/
+ 1611  git add class-assignments/
+ 1612  git commit -m "understanding permissions" 
+ 1613  git push
+ 1614  history 25
+ 1615  cd class-assignments/
+ 1616  ls
+ 1617  ls -l
+ 1618  chmod u+x permissions.txt 
+ 1619  ls -l
+ 1620  ls
+ 1621  ipython
+ 1622  history 100
+
+ 1980  cd scripts
+ 1981  ls
+ 1982  ls -l
+ 1983  ls -a
+ 1984  mv dir.sh ~/scripts/
+ 1985  ls
+ 1986  mv dir.sh ~/Desktop/scripts/
+ 1987  mv dir.sh ~/Desktop/scripts
+ 1988  ls
+ 1989  cd ..
+ 1990  cd Desktop/eeb-177/class-assignments/
+ 1991  ls
+ 1992  gedit dir.sh
+ 1993  ls
+ 1994  mv dir.sh ~/scripts/
+ 1995  ls
+ 1996  cd ~/scripts
+ 1997  ls
+ 1998  ls -l
+ 1999  chmod u+x
+ 2000  chmod u+x dir.sh 
+ 2001  ls -l
+ 2002  ls
+ 2003  history 25
+ 2004  history 25 >> ~/Desktop/eeb-177/class-assignments/classwork-Thurs-1-26.txt 
+ 2033  error: failed to push some refs to 'origin'ls
+ 2034  pwd
+ 2035  git init
+ 2036  git add README.txt
+ 2037  ls
+ 2038  gedit README.txt
+ 2039  ls
+ 2040  git add README.txt 
+ 2041  git commit -m "troubleshooting github repositories" 
+ 2042  git log
+ 2043  git push
+ 2044  git remote adderror: src refspec master does not match any.
+ 2045  git commit -m "initial commit"
+ 2046  git push origin master
+ 2047  ls
+ 2048  git status
+ 2049  git add hw-1-12-2017 hw-1-12-2017b.txt hw-1-12-2017c.txt hw-1-12-2017d.txt hw-1-12-2017e.txt week-2-hw-eeb174-copy.txt 
+ 2050  git push
+ 2051  git add hw-1-12-2017.txt hw-1-12-2017b.txt hw-1-12-2017c.txt hw-1-12-2017d.txt hw-1-12-2017e.txt week-2-hw-eeb174-copy.txt 
+ 2052  git commit -m "homework assignments"
+ 2053  git push
+ 2054  git remote addorigin error: src refspec master does not match any.
+ 2055  cd ~/scripts/
+ 2056  ls
+ 2057  ls -l
+ 2058  git init
+ 2059  ls -la
+ 2060  git add dir.sh 
+ 2061  git commit -m "script exercise"
+ 2062  git push
+ 2063  git remote add origin https://github.com/domcastro95/scripts.git
+ 2064  git push -u origin master
+ 2065  ls
+ 2066  git status
+ 2067  git add .bash_profile 
+ 2068  git commit -m "hidden file with pathway for scripts"
+ 2069  git push
+ 2070  ls
+ 2071  cd ..
+ 2072  history 40 >> ~/Desktop/eeb-177/class-assignments/classwork-Thurs-1-26.txt 

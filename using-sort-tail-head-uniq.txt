@@ -1,0 +1,11 @@
+1530* sort -n -k 1  Gesquiere2011_data.csv | head -n 10 | tail -n+2 | tr 
+ 1531  sort -n -k 1  Gesquiere2011_data.csv | head -n 10 | tail -n+2 | tr " " "," 
+ 1532  sort -n -k 1  Gesquiere2011_data.csv | head -n 10 | tail -n+2 | tr " " "," |
+ 1533  sort -n -k 1  Gesquiere2011_data.csv | head -n 10 | tail -n+2 | tr "\t " "," |
+ 1534  sort -n -k 1  Gesquiere2011_data.csv | head -n 10 | tail -n+2 | tr "\t " ","
+ 1535  sort -n -k 1  Gesquiere2011_data.csv | head -n 10 | tail -n+2 | tr "\t " "," | uniq 
+ 1536  man uniq
+ 1537  sort -n -k 1  Gesquiere2011_data.csv | head -n 10 | tail -n+2 | tr "\t " "," | uniq history 10
+ 1538  sort -n -k 1  Gesquiere2011_data.csv | head -n 10 | tail -n+2 | tr "\t " "," | uniq 
+ 1539  history 10
+
