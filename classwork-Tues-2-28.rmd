@@ -1,0 +1,10 @@
+cats
+cats <- read.csv(file = "data/feline-data.csv", as.in = T)
+cats
+str(cats)
+cats$weight
+cats$weight + 2
+type of(cats$coat)
+cats$coat
+#
+```
